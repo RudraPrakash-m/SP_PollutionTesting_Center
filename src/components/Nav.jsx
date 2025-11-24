@@ -43,7 +43,7 @@ const Nav = ({ scrollToSection, refs }) => {
       <div className="max-w-6xl mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo */}
         <motion.img
-          src="../../public/logo.png"
+          src="/logo.png"
           alt="Logo"
           className="w-12 h-12 rounded-full cursor-pointer object-cover" // smaller size
           whileHover={{ scale: 1.1 }}

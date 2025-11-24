@@ -14,22 +14,22 @@ const Home = ({ heroRef, aboutRef, servicesRef, sliderRef, contactRef, contactIn
     {
       title: "Two-Wheeler Pollution Testing",
       description: "Fast and certified testing for bikes and scooters.",
-      image: "../../public/two-wheeler.jpeg",
+      image: "/Two-Wheeler.jpeg",
     },
     {
       title: "Four-Wheeler Testing",
       description: "Reliable emission tests for cars, jeeps, and vans.",
-      image: "../../public/four-wheeler.png",
+      image: "/four-wheeler.png",
     },
     {
       title: "Heavy Vehicle Testing",
       description: "Trucks, buses, and tractors – all tested with accuracy.",
-      image: "../../public/heavy-vehicle.jpeg",
+      image: "/heavy-vehicle.jpeg",
     },
     {
       title: "PUC Certificate Printing",
       description: "Get your official PUC certificate printed instantly.",
-      image: "../../public/puc-certificate.png",
+      image: "/public/puc-certificate.png",
     },
   ];
 
