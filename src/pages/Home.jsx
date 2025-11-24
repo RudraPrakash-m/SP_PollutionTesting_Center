@@ -29,7 +29,7 @@ const Home = ({ heroRef, aboutRef, servicesRef, sliderRef, contactRef, contactIn
     {
       title: "PUC Certificate Printing",
       description: "Get your official PUC certificate printed instantly.",
-      image: "/public/puc-certificate.png",
+      image: "/puc-certificate.png",
     },
   ];
 
